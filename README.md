@@ -5,7 +5,7 @@ A Pascal-S Compiler
 This project is based on [Flex](http://dinosaur.compilertools.net/flex/index.html), [Bison](https://www.gnu.org/software/bison/) and [llvm](https://llvm.org/), go through those links for more details.
 
 ---
-## Getting Started
+## ✔Getting Started
 
 ### Guidance on Installation
 
