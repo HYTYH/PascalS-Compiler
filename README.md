@@ -25,11 +25,7 @@ This project is based on [Flex](http://dinosaur.compilertools.net/flex/index.htm
 
 #### Ⅲ、Installation process
 
-1. get the application installer file
-
-```
-git clone https://gitlab.com/chengmin_zhang/pascals_compiler_installer.git
-```
+1. get the application installer file [here](https://github.com/HYTYH/PascalS-Compiler/releases)
 
 2. go to the pascals_compiler_installer directory
 
