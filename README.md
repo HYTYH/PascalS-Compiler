@@ -5,9 +5,11 @@ A Pascal-S Compiler
 ---
 ## 👀Notice
 - Pascal-S Production
+
 Complete Pascal-S productions are listed in docs.
 
 - Detailed Design Document
+
 See Pascal-S_doc for detailed informations.
 
 ---
