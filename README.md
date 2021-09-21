@@ -3,7 +3,7 @@
 A Pascal-S Compiler
 
 ---
-## Pascal-S Production System 
+## Pascal-S Production
 
 ```
 program → program_head program_body.
